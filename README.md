@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prepoet
+- 👋 Hi, I’m @thinkdiffw
 - 👀 I’m interested in Concurrency, JVM, GC
 - 🌱 I’m currently learning OS, Golang, Rust
 - 📫 ww.prepoet@gmail.com
