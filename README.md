@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thinkdiffw
+- 👋 Hi, I’m @ww9xlll
 - 👀 I’m interested in Java, Concurrency, JVM, GC
 - 🌱 I’m currently learning OS, Network, Golang, Rust
-- 📫 thinkdiffw@gmail.com
+- 📫 ww9xlll@gmail.com
