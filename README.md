@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ww9xlll
-- 👀 I’m interested in Java, Concurrency, JVM, GC
-- 🌱 I’m currently learning OS, Network, Golang, Rust
+- 👀 I’m interested in Java, Concurrency, JVM, GC, FrontEnd
+- 🌱 I’m currently learning OS, Network, Golang, Rust, LLM
 - 📫 ww9xlll@gmail.com
